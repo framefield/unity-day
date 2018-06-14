@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: aee8380998c78e74f90b63379c6013f1
+timeCreated: 1528990222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Block:ADD ON - Schublade
+    100002: Box2807
+    100004: ChamferBo019
+    100006: ChamferBo021
+    100008: Grid_normal051
+    100010: Grid_normal052
+    100012: //RootNode
+    100014: Layer:-3-09_grid_modul016
+    100016: Layer:-3-09_grid_modul017
+    100018: Object019
+    100020: Object020
+    100022: Object037
+    400000: Block:ADD ON - Schublade
+    400002: Box2807
+    400004: ChamferBo019
+    400006: ChamferBo021
+    400008: Grid_normal051
+    400010: Grid_normal052
+    400012: //RootNode
+    400014: Layer:-3-09_grid_modul016
+    400016: Layer:-3-09_grid_modul017
+    400018: Object019
+    400020: Object020
+    400022: Object037
+    2300000: Box2807
+    2300002: ChamferBo019
+    2300004: ChamferBo021
+    2300006: Grid_normal051
+    2300008: Grid_normal052
+    2300010: Layer:-3-09_grid_modul016
+    2300012: Layer:-3-09_grid_modul017
+    2300014: Object019
+    2300016: Object020
+    2300018: Object037
+    3300000: Box2807
+    3300002: ChamferBo019
+    3300004: ChamferBo021
+    3300006: Grid_normal051
+    3300008: Grid_normal052
+    3300010: Layer:-3-09_grid_modul016
+    3300012: Layer:-3-09_grid_modul017
+    3300014: Object019
+    3300016: Object020
+    3300018: Object037
+    4300000: Layer:-3-09_grid_modul016
+    4300002: Layer:-3-09_grid_modul017
+    4300004: Grid_normal051
+    4300006: Grid_normal052
+    4300008: Object019
+    4300010: Object020
+    4300012: ChamferBo019
+    4300014: ChamferBo021
+    4300016: Object037
+    4300018: Box2807
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
