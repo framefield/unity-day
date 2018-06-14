@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 1249371679
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70459a595f12cb37e175c606ce4f541e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/rH/AR-Szene viewer Test/AR_Szene viewer Test.unity
+Dependencies: []
