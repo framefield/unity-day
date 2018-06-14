@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 792351647
+CRC: 2076679267
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ar-szenetest
+      Name: ar-svtest01
       Dependencies: {}
